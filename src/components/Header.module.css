@@ -1,0 +1,17 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.headerContainer img {
+  width: 20%;
+  margin-left: 3%;
+  padding: 3%;
+}
+
+.menuContainer {
+  display: flex;
+  width: 40%;
+}
+
